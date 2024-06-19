@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.home{
+color: green ;
+background-color: black;
+padding: 20px;
+margin-top: 10px;
+
+}
+h1{
+    font-size:40px ;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    padding-left: 55%;
+}
+li{
+    font-size: 25px;
+    background-color: beige;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
